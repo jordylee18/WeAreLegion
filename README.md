@@ -1,2 +1,3 @@
 # WeAreLegion
 reminder
+hello guild
